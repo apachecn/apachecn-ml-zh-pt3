@@ -1,5 +1,4 @@
-# 第五部分
-编排智能系统
+# 第五部分：编排智能系统
 
 Orchestrating Intelligent Systems
 

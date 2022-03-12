@@ -1,5 +1,4 @@
-# 第四部分
-创造智能
+# 第四部分：创造智能
 
 Creating Intelligence
 

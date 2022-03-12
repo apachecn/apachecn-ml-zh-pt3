@@ -1,5 +1,4 @@
-# 第一部分
-着手一个智能系统项目
+# 第一部分：着手一个智能系统项目
 
 Approaching an Intelligent Systems Project
 

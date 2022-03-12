@@ -1,5 +1,4 @@
-# 第三部分
-实施智能化
+# 第三部分：实现智能化
 
 Implementing Intelligence
 

@@ -1,5 +1,4 @@
-# 第二部分
-智能体验
+# 第二部分：智能体验
 
 Intelligent Experiences
 
